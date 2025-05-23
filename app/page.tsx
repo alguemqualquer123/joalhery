@@ -10,7 +10,7 @@ export default function Home() {
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur">
         <div className="container flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center gap-2 font-bold text-xl">
-            <Diamond className="h-6 w-6" />
+            <Diamond className="h-6 w-6" /> 
             <span>RS Joias</span>
           </Link>
           <nav className="hidden md:flex gap-6">
